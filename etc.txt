@@ -1,0 +1,2 @@
+<img src="img/pico.jpg" alt=""></img>
+								<video src="media/video.mp4" preload="auto" controls autoplay loop></video>
